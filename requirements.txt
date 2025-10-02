@@ -1,0 +1,15 @@
+ipykernel
+python-dotenv
+pypdf
+streamlit
+openai
+langchain
+langchain-text-splitters
+langchain_community
+langchain_core
+chromadb
+langchain_chroma
+langchain_groq
+langchain_openai
+langchain_huggingface
+sentence_transformers
